@@ -1,1 +1,1 @@
-# mj-notes
+# Notes between @jamesgorrie and @Marie-L
