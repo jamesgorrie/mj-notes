@@ -141,3 +141,42 @@ function costOfMonitors(rows, columns) {
 const totalCost = costOfMonitors(5,4);
 
 console.log(totalCost);
+
+//if / else statements
+
+var name = 'John'
+var civilStatus = 'single';
+
+if (civilStatus ==='married'){
+  console.log(name + ' is married')
+} else {
+  console.log(name + ' will hopefully marry soon :)');
+}
+
+var isMarried = true;
+if (isMarried){
+  console.log(name + ' is married');
+} else {
+  console.log(name + ' will hopefully marry soon :)');
+}
+
+var massMark = 78; //kg
+var heightMark = 1.69; //meters
+
+var massJohn = 92;
+var heightJohn = 1.95;
+
+var BMIMark = massMark / (heightMark + heightMark);
+var BMIJohn = massJohn / (heightJohn + heightJohn);
+
+
+if(BMIMark > BMIJohn) { console.log ('Mark\'s BMI is higher than John\'s.');
+} else { console.log ('John\'s BMI is higher than Mark\'s.');
+}
+
+//Basic Boolean logic: not and & or
+
+//AND (&&) => true if ALL are true
+//OR (||) => true if ONE is true
+//NOT (!) => inverts true/false value
+
