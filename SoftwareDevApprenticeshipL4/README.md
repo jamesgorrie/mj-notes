@@ -104,4 +104,4 @@ requirement) level of quality
 the With Whom has to be significantly above the level of quality expected
 
 - For a distinction, each of the three sets of criteria must be significantly above the expected level of
-quality
+quality 
