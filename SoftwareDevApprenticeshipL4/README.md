@@ -13,10 +13,7 @@
  - stages - Analysis, Design, Implementation, Testing, Deployment, Maintenance
  - Roles - Who is likely to be doing what when
  - Activities - What might people be doing at stages or as roles
-<<<<<<< HEAD
 
-=======
->>>>>>> 1a79c10d5ce543a6beac72d0fbe781967ff71b2d
 [KM1 Handbook](https://www.cityandguilds.com/-/media/productdocuments/digital_and_it/it_professional/9648/on-programme/9648-71_software_developer/9628-01_l4_diploma_in_software_development_methodologies_handbook.ashx)
 
 
