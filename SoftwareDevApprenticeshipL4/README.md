@@ -13,7 +13,10 @@
  - stages - Analysis, Design, Implementation, Testing, Deployment, Maintenance
  - Roles - Who is likely to be doing what when
  - Activities - What might people be doing at stages or as roles
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1a79c10d5ce543a6beac72d0fbe781967ff71b2d
 [KM1 Handbook](https://www.cityandguilds.com/-/media/productdocuments/digital_and_it/it_professional/9648/on-programme/9648-71_software_developer/9628-01_l4_diploma_in_software_development_methodologies_handbook.ashx)
 
 
@@ -70,13 +73,14 @@ A summative portfolio may include some supplementary sections, eg apprentice ref
 Provides an opportunity for further evidence to be gathered and/or evidence to be explored in more detail against any of the knowledge, competence or behaviours.
 This also increases accuracy and validity.
 
-The interview will take a maximum of 120 minutes
+- The interview will take a maximum of 120 minutes
 - What you submitted in the summative portfolio
 - What you produced in the synoptic project
 - The standard of your work, as evidenced in the portfolio and the project
 - How you approached the work submitted in the portfolio and the project.
 
 ##### 7. Employer Reference
+
 
 Provides the employer’s perspective on how the apprentice has performed in the workplace and how they have applied their knowledge, competencies and behaviours in work projects.
 
@@ -105,3 +109,4 @@ the With Whom has to be significantly above the level of quality expected
 
 - For a distinction, each of the three sets of criteria must be significantly above the expected level of
 quality 
+
